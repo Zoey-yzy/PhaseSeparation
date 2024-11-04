@@ -1,9 +1,9 @@
 # PhaseSeparation
 This repository is written as a guidance for proteomics data processing. Use machine learning models to predict protein functions (phase separation) from amino acid sequences. 
 ## References
-Lee J, Cho H, Kwon I. Phase separation of low-complexity domains in cellular function and disease. Exp Mol Med. 2022;54(9):1412-1422. 
+[1] Lee J, Cho H, Kwon I. Phase separation of low-complexity domains in cellular function and disease. Exp Mol Med. 2022;54(9):1412-1422. 
 \
-Statistics of local complexity in amino acid sequences and sequence databases - ScienceDirect. Accessed June 6, 2024. 
+[2] Statistics of local complexity in amino acid sequences and sequence databases - ScienceDirect. Accessed June 6, 2024. 
 \
 Walsh I, Martin AJM, Di Domenico T, Tosatto SCE. ESpritz: accurate and fast prediction of protein disorder. Bioinformatics. 2012;28(4):503-509. 
 \
@@ -20,3 +20,13 @@ Vernon RM, Chong PA, Tsang B, et al. Pi-Pi contacts are an overlooked protein fe
 Proteomic analysis of post-translational modifications | Nature Biotechnology. Accessed June 7, 2024. 
 \
 PhosphoSitePlus, 2014: mutations, PTMs and recalibrations | Nucleic Acids Research | Oxford Academic. Accessed June 7, 2024.
+\
+A subcellular map of the human proteome | Science. Accessed June 9, 2024. https://www.science.org/doi/10.1126/science.aal3321?ijkey=2M3eGiJtAz7ng&keytype=ref&siteid=sci
+Deep-learning enables proteome-scale identification of phase-separated protein candidates from immunofluorescence images | bioRxiv. Accessed June 9, 2024. 
+\
+Chu X, Sun T, Li Q, et al. Prediction of liquid–liquid phase separating proteins using machine learning. BMC Bioinformatics. 2022;23(1):72. 
+\
+Sun J, Qu J, Zhao C, et al. Precise prediction of phase-separation key residues by machine learning. Nat Commun. 2024;15(1):2662. 
+Hou S, Hu J, Yu Z, Li D, Liu C, Zhang Y. Machine learning predictor PSPire screens for phase-separating proteins lacking intrinsically disordered regions. Nat Commun. 2024;15(1):2147. 
+\
+Screening membraneless organelle participants with machine-learning models that integrate multimodal features | PNAS. Accessed June 11, 2024.
